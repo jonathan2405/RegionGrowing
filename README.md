@@ -1,7 +1,6 @@
 # Region Growing
-A multi-seed region growing algorithm. It can be used as a preprocess in object-recognition, segmentation, tracker and so on.
 
-It's not easy to find multi-seed region growing algorithm written in C++ and opencv 2+, so I share this simple version.
+Algoritmo de crecimiento de región multisemilla. Se puede utilizar como preproceso en reconocimiento de objetos, segmentación, seguimiento, etc.
 
 ## Environment
 * GCC
